@@ -17,18 +17,30 @@ I like improving my coding skills step by step and turning ideas into working pr
 
 
 <h2>🛠️ Tools & Technologies I Use</h2>
-<ul>
-  <li>Languages: HTML, CSS, JavaScript, PHP</li>
-  <li>Database: MySQL</li>
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+
   <li>Tools: Git, GitHub, VS Code, phpMyAdmin</li>
   <li>Learning: Web development fundamentals & modern JavaScript</li>
 </ul>
 
 
-<h2>📫 How to Reach Me</h2>
-<ul>
-  <li>GitHub: https://github.com/Efftsh</li>
-  <li>Email: rising2470@gmail.com</li>
-  <li>LinkedIn: https://www.linkedin.com/in/mohd-iffat-ashizam-bin-mohd-zaidi-9556b818a/</li>
-</ul>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohd-iffat-ashizam-bin-mohd-zaidi-9556b818a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: rising2470@gmail.com) 
+
 Feel free to connect or collaborate on projects!
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Efftsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Efftsh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Efftsh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Efftsh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+

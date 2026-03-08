@@ -5,6 +5,8 @@ I'm an IT student and aspiring web developer who enjoys building web application
 I’m particularly interested in web development, UI design, and building useful digital products.
 
 I like improving my coding skills step by step and turning ideas into working projects.
+
+
 ---
 🚧 What I'm Currently Working On
 
@@ -14,7 +16,9 @@ Building small HTML, CSS, and JavaScript projects
 
 Learning more about modern web development
 
-Exploring different stacks like MERN and Laravel
+Exploring different stacks like MERN and Laravel 
+
+
 ---
 🛠️ Tools & Technologies I Use
 
@@ -25,6 +29,8 @@ Database: MySQL
 Tools: Git, GitHub, VS Code, phpMyAdmin
 
 Learning: Web development fundamentals & modern JavaScript
+
+
 ---
 📫 How to Reach Me
 

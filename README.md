@@ -5,7 +5,8 @@ I'm an IT student and aspiring web developer who enjoys building web application
 I’m particularly interested in web development, UI design, and building useful digital products.
 
 I like improving my coding skills step by step and turning ideas into working projects.
---
+
+
 <h2>🚧 What I'm Currently Working On</h2>
 <ul>
   <li>Improving my JavaScript skills</li>
@@ -13,7 +14,8 @@ I like improving my coding skills step by step and turning ideas into working pr
   <li>Learning more about modern web development </li>
   <li>Exploring different stacks like MERN and Laravel</li>
 </ul>
---
+
+
 <h2>🛠️ Tools & Technologies I Use</h2>
 <ul>
   <li>Languages: HTML, CSS, JavaScript, PHP</li>
@@ -21,7 +23,8 @@ I like improving my coding skills step by step and turning ideas into working pr
   <li>Tools: Git, GitHub, VS Code, phpMyAdmin</li>
   <li>Learning: Web development fundamentals & modern JavaScript</li>
 </ul>
---
+
+
 <h2>📫 How to Reach Me</h2>
 <ul>
   <li>GitHub: https://github.com/Efftsh</li>

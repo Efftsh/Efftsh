@@ -8,7 +8,7 @@ I like improving my coding skills step by step and turning ideas into working pr
 
 
 ---
-🚧 What I'm Currently Working On
+<h1>🚧 What I'm Currently Working On</h1>
 
 Improving my JavaScript skills
 

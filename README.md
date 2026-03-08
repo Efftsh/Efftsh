@@ -8,7 +8,7 @@ I like improving my coding skills step by step and turning ideas into working pr
 
 
 ---
-<h1>🚧 What I'm Currently Working On</h1>
+<h2>🚧 What I'm Currently Working On</h2>
 
 Improving my JavaScript skills
 
@@ -20,7 +20,7 @@ Exploring different stacks like MERN and Laravel
 
 
 ---
-🛠️ Tools & Technologies I Use
+<h2>🛠️ Tools & Technologies I Use</h2>
 
 Languages: HTML, CSS, JavaScript, PHP
 
@@ -32,7 +32,7 @@ Learning: Web development fundamentals & modern JavaScript
 
 
 ---
-📫 How to Reach Me
+<h2>📫 How to Reach Me</h2>
 
 GitHub: https://github.com/Efftsh
 

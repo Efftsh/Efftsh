@@ -27,7 +27,7 @@ I like improving my coding skills step by step and turning ideas into working pr
 
 
 ## 🌐 Socials:
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-iffat-ashizam-bin-mohd-zaidi-9556b818a) ](https://www.linkedin.com/in/mohd-iffat-ashizam-bin-mohd-zaidi-9556b818a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: rising2470@gmail.com) 
+[[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-iffat-ashizam-bin-mohd-zaidi-9556b818a) ] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto: rising2470@gmail.com) 
 
 Feel free to connect or collaborate on projects!
 

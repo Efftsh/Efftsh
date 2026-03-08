@@ -7,7 +7,6 @@ I’m particularly interested in web development, UI design, and building useful
 I like improving my coding skills step by step and turning ideas into working projects.
 
 
----
 <h2>🚧 What I'm Currently Working On</h2>
 
 Improving my JavaScript skills
@@ -19,7 +18,6 @@ Learning more about modern web development
 Exploring different stacks like MERN and Laravel 
 
 
----
 <h2>🛠️ Tools & Technologies I Use</h2>
 
 Languages: HTML, CSS, JavaScript, PHP
@@ -31,7 +29,6 @@ Tools: Git, GitHub, VS Code, phpMyAdmin
 Learning: Web development fundamentals & modern JavaScript
 
 
----
 <h2>📫 How to Reach Me</h2>
 
 GitHub: https://github.com/Efftsh

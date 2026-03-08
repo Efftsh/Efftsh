@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi there 👋 I'm Iffat
+👨‍💻 Who am I?
 
-<!--
-**Efftsh/Efftsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT student and aspiring web developer who enjoys building web applications and learning modern web technologies.
+I’m particularly interested in web development, UI design, and building useful digital products.
 
-Here are some ideas to get you started:
+I like improving my coding skills step by step and turning ideas into working projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚧 What I'm Currently Working On
+
+Improving my JavaScript skills
+
+Building small HTML, CSS, and JavaScript projects
+
+Learning more about modern web development
+
+Exploring different stacks like MERN and Laravel
+
+🛠️ Tools & Technologies I Use
+
+Languages: HTML, CSS, JavaScript, PHP
+
+Database: MySQL
+
+Tools: Git, GitHub, VS Code, phpMyAdmin
+
+Learning: Web development fundamentals & modern JavaScript
+
+📫 How to Reach Me
+
+GitHub: https://github.com/Efftsh
+
+Email: rising2470@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mohd-iffat-ashizam-bin-mohd-zaidi-9556b818a/
+
+Feel free to connect or collaborate on projects!
